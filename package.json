@@ -6,5 +6,8 @@
     "moment": "^2.29.3",
     "multer": "^1.4.4",
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "lerna": "^5.0.0"
   }
 }
